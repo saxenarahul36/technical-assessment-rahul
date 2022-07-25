@@ -10,11 +10,9 @@ Setp : 1 First clone the git repo "technical-assessment-rahul"
 
 Setp : 2 npm install
 
-```sh
 
 Setp : 3 npm start
 
-```sh
 
 After start local server the home page will display as screen below and others screens :
 
