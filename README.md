@@ -1,18 +1,11 @@
 # technical-assessment-rahul
 
 Responsive Layout Setup (Header, Content, Footer) for React Apps
-
-```sh
-
 Setp : 1 First clone the git repo "technical-assessment-rahul"
-
-```sh
 
 Setp : 2 npm install
 
-
 Setp : 3 npm start
-
 
 After start local server the home page will display as screen below and others screens :
 
